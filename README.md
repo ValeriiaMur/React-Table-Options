@@ -17,6 +17,8 @@ sudo n stable
 It it doesn't help with your current setup, download this starter file:
 
 cd my-app
+
 npm i (install all modules)
+
 npm run
 
