@@ -16,9 +16,9 @@ sudo n stable
 
 It it doesn't help with your current setup, download this starter file:
 
-cd my-app
+cd React-Table-Options
 
 npm i (install all modules)
 
-npm run
+npm build
 
