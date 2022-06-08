@@ -11,6 +11,7 @@ npm cache clear --force
 Update node:
 
 sudo npm install -g n
+
 sudo n stable
 
 It it doesn't help with your current setup, download this starter file:
