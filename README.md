@@ -18,7 +18,7 @@ It it doesn't help with your current setup, download this starter file:
 
 cd React-Table-Options
 
-npm i (install all modules)
+npm i (will install all node modules)
 
-npm build
+npm run
 
